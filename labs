@@ -1,0 +1,177 @@
+<html>
+  <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="assets/css/SIT.css">
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Roboto&display=swap" rel="stylesheet">
+        <title> Mariala </title>
+
+</head>  
+<body>
+  
+  
+  
+  <header class="header"> 
+    <div class="container"> 
+      <div class="header_inner">
+        <div class="header_logo">MARIALA</div>
+        <nav class="nav"> 
+            <a class="nav_link" href="#"> Home </a>
+            <a class="nav_link" href="#"> Aboutme </a>
+            <a class="nav_link" href="#"> Products </a>
+            <a class="nav_link" href="#"> Contactme </a>
+
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <div class="center"> </div>
+  <div class="photo"> </div>
+  <div class="center2"> </div>
+
+    <div class="container"> 
+      <div class="intro__title"> 
+        <h1 class="intro_text"> new </h1>
+          <h1 class="intro_text1">Spring Cushion </h1>
+          <h1 class="intro_text2"> Collection 2019 </h1>
+          <a class="btmm" href="#"> BUY NOW </a>
+        </div>
+      </div>
+        <div class="block"> </div>
+        <div class="block2"> </div>
+      
+      
+        <div class="text_t">
+          <h1 class="text">i'm a cushion designer </h1>
+          <h1 class="text2"> Based in San Francisco, California I design trendy and fashion Cushion, since I have memory I always had a tendecy to design and illustration</h1>
+            <div class="botton">
+              <a class="btm" href="#"> Learn more</a>
+            </div>
+          </div>
+
+        <div class="more"> 
+          
+          <div class="about"> </div>
+              <h1 class="AM"> About me</h1>
+                <a class="LM1" href="#"> Learn more</a>
+                  <div class="photo2"></div>
+            
+          <div class="myp"> </div>
+              <h1 class="MP">My Products</h1>
+                <a class="LM2" href="#"> Learn more</a>
+                  <div class="photo3"> </div>
+
+          <div class="contact"></div>
+              <h1 class="CT">Contact me</h1>
+                <a class="LM3" href="#"> Learn more</a>
+                  <div class="photo4"> </div>
+        
+        </div>
+
+      <div class="intro_me"> 
+        <div class="photo5"></div>
+        <div class="block3">
+              <h1 class="AM2"> about me </h1>
+                <h1 class="text3">I'm a trendy</h1>
+                  <h1 class="text4"> Cushion Designer </h1>
+                    <a class="LM4" href="#"> learn more</a>
+
+            </div>
+        </div>     
+    
+
+      <div class="info">
+        <div class="photo6"> </div>
+      </div>
+        <h1 class="text5"> beginnings</h1>
+          <div class="box"> 
+            <h1 class="text6">Credibly innovate granular internal or organic sources whereas high standards in web-radiness. Energis scale future-proof core competencies <br>vis-a-vis impactful experiences. </h1>
+              <h1 class="text7"> Dramatically synthesize integrated schemas. with optimal networks</h1>
+          </div>
+        
+        
+          <div class="box2">
+            <div class="photo7"></div>
+            <h1 class="text8"> carrer </h1>
+              <h1 class="text9"> Collaboratively administrate turnkey channels whereas virtual e-tailers.</h1>
+                <h1 class="text10"> Objectively seize scalable metrics whereas proactive e-services seamlessly empower fully researched growth sttratefies.</h1>
+                  <h1 class="text11"> And interoperable internal or "organic" sources"</h1>
+                    <div class="botton2">
+                    <a class="LM5" href="#"> leorn more </a>    
+            </div>
+          </div>
+
+          <div class="box3"> 
+            <div class="photo8"></div>
+              <h1 class="text12">products</h1>
+                <h1 class="text13"> Seamlessly empower fully reserched growth sttrategies and interoperable internal or "organic" sources.</h1>
+                  <h1 class="text14"> Credibly innovate granular internal or "organic" sources whereas high standards in web-readiness.</h1>
+                    <h1 class="text15">Energistically scale future-proof core competenct </h1>
+          </div>
+          
+
+      <div class="center3">
+        <div class="photo9"></div>  
+          <div class="block4"> 
+            <h1 class="text16">new</h1>
+            <h1 class="text17">Spring Cushion</h1>
+            <h1 class="text18">Collection 2019</h1>
+              <a class="BN" href="#">buy now</a>
+            
+          </div>
+      </div>
+
+      <div class="shop"> 
+        <div class="photo10"></div> 
+          <h1 class="name"> Plated Cushion </h1>   
+            <h1 class="price">$ 19.99 USD</h1>
+        
+        <div class="photo11"></div>
+          <h1 class="name2">  Silver Cushion </h1>
+            <h1 class="price2">$ 19.90 USD</h1>
+        
+        <div class="photo12"></div>
+          <h1 class="name3"> Deep Blue Cushion</h1>
+            <h1 class="price3"> $ 19.90 USD</h1>
+        
+            <div class="photo13"></div>
+              <h1 class="name4"> Pink Cushion</h1>
+                <h1 class="price4">$ 19.99 USD </h1>
+            
+            <div class="photo14"></div>
+              <h1 class="name5"> Black Cushion </h1>
+                <h1 class="price5"> $ 19.99 USD </h1>
+
+            <div class="photo15"></div>
+              <h1 class="name6"> Green Cushion</h1>
+                <h1 class="price6">$ 19.90 USD</h1>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
