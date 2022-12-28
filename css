@@ -229,3 +229,175 @@ header_inner{
     position: absolute;
 
 }
+/* 3 фотки*/
+.more{
+    align-items: center;
+}
+.about{
+    position: absolute;
+    height: 113px;
+    width: 368px;
+    left: 15%;
+    right: 0%;
+    top: 1600px;
+
+    background: #CEB3CB;
+    border-radius: 0px;
+}
+.photo2{
+    position: absolute;
+    height: 314px;
+    width: 368px;
+    left: 15%;
+    right: 0%;
+    top: 1286px;
+
+    background: url(../images/DV.jpg.png);
+    z-index: 1000;
+}
+.AM{
+    position: absolute;
+    height: 30px;
+    left: 16%;
+    right: 0%;
+    top: 1600px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: white;
+}
+
+.LM1{
+    position: absolute;
+    height: 30px;
+    left: 16%;
+    right: 0%;
+    top: 1640px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    text-decoration: none;
+
+    color: #fff;
+
+}
+
+.myp{
+    position: absolute;
+    height: 113px;
+    width: 368px;
+    left: 40%;
+    right: 0%;
+    top: 1600px;
+
+    background: #CEB3CB;
+    border-radius: 0px;
+}
+
+.photo3{
+    position: absolute;
+    height: 314px;
+    width: 368px;
+    left: 40%;
+    right: 0%;
+    top: 1286px;
+
+    background: url(../images/PD.png);
+
+}
+
+
+
+.MP{
+    position: absolute;
+    height: 30px;
+    left: 41%;
+    right: 0%;
+    top: 1600px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+.LM2{
+    position: absolute;
+    height: 30px;
+    left: 41%;
+    right: 0%;
+    top: 1640px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    text-decoration: none;
+
+    color: #FFFFFF;
+
+
+}
+.contact{
+    position: absolute;
+    height: 113px;
+    width: 368px;
+    left: 65%;
+    right: 0%;
+    top: 1600px;
+
+    background: #CEB3CB;
+    border-radius: 0px;
+}
+.photo4{
+    position: absolute;
+    height: 314px;
+    width: 368px;
+    left: 65%;
+    right: 0%;
+    top: 1286px;
+
+    background: url(../images/KB.png);
+}
+.CT{
+    position: absolute;
+    height: 30px;
+    left: 66%;
+    right: 0%;
+    top: 1600px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+   
+    color: #FFFFFF;
+}
+.LM3{
+    position: absolute;
+    height: 30px;
+    left: 66%;
+    right: 0%;
+    top: 1640px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    text-decoration: none;
+
+
+    color: #FFFFFF;
+}
