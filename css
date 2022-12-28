@@ -507,3 +507,14 @@ LM4:after{
     position: absolute;
     z-index: 1;
 }
+.photo5{
+    position: absolute;
+    width: 540px;
+    height: 675px;
+    left: 785px;
+    top: 75px;
+
+    background: url(../images/PO2.png);
+    border-radius: 0px;
+    z-index: 1000px;
+}
