@@ -26,6 +26,17 @@ body {
     background: #C9ADC6;
     border-radius: 0px;
 }
+.center2{
+    position: absolute;
+    height: 359px;
+    left: 0%;
+    right: 0%;
+    top:578px;
+    z-index: -1;
+    background: #D6BBD3;
+    border-radius: 0px;
+    background-size: 100%;
+}
 .photo{
     position: absolute;
     height: 675px;
@@ -36,6 +47,25 @@ body {
     background: url("../images/photo2.png");
     z-index: 1000px;
 
+}
+.block{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 40%px;
+    right: 162px;
+    top: 887px;
+    background: #A78BA4;
+}
+
+.block2{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 40%px;
+    right: 112px;
+    top: 887px;
+    background:  #B08EAD;
 }
 .intro__title{
     position: absolute;
