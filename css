@@ -518,3 +518,70 @@ LM4:after{
     border-radius: 0px;
     z-index: 1000px;
 }
+
+.text5{
+    position: absolute;
+    height: 30px;
+    left: 380px;
+    right: 0%;
+    top: 2933px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+
+    color: #B99BB6;
+
+}
+
+
+.box{
+    position: absolute;
+    height: 120px;
+    width: 481px;
+    left: 380px;
+    right: 0%;
+    top:  2970px;
+    
+    border-radius: 0px; 
+   
+}
+.text6{
+    position: absolute;
+    height: 120px;
+    left: -0.05%;
+    right: 1.08%;
+    top: 0.2px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+
+
+color: #5F4D5D;
+}
+
+.text7{
+    position: absolute;
+    height: 60px;
+    left: -0.05%;
+    right: 5.2%;
+    top: 130.2px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+
+color: #5F4D5D;
+}
