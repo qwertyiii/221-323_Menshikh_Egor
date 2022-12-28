@@ -585,3 +585,689 @@ color: #5F4D5D;
 
 color: #5F4D5D;
 }
+.photo6{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 416px;
+    width: 608px;
+    left: 50%;
+    right: -0.04%;
+    top: calc(50% - 416px/2 + 0.2px);
+    
+    background: url(../images/sofa.png);
+    border: 17px solid #D6BBD3;
+    border-radius: 0px;
+}
+
+.box2{
+    position: absolute;
+    height: 120px;
+    width: 500px;
+    left: 50%;
+    right: 0%;
+    top:  3500px;
+    
+    border-radius: 0px; 
+}
+
+
+.text8{
+    position: absolute;
+    height: 30px;
+    left: 0.05%;
+    right: 87.19%;
+    top: -0.34px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+
+    color: #B99BB6;;
+}
+
+.text9{
+    position: absolute;
+    height: 60px;
+    left: 0.05%;
+    right: 10.65%;
+    top: 30px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #5F4D5D;
+
+}
+
+.text10{
+    position: absolute;
+    height: 90px;
+    left: 0.05%;
+    right: 12.71%;
+    top: 110px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    
+    margin: 0;
+
+    color: #5F4D5D;
+
+}
+
+.text11{
+    position: absolute;
+    height: 30px;
+    left: 0.05%;
+    right: 7.15%;
+    top: 200px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    
+
+
+    color: #5F4D5D;
+}
+
+
+.photo7{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 506px;
+    width: 544px;
+    left: -650px;
+    right: 0%;
+    top: -110px;
+
+    background: url(../images/pillow.png);
+    border: 17px solid #D6BBD3;
+    border-radius: 0px;
+}
+
+
+.botton2{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 45px;
+    width: 141px;
+    text-align: center;
+    left: 0.05%;
+    top: 270px;
+    padding: 16px 14px 29px;
+    border: 1px solid #B99BB6;
+    border-radius: 25px;
+
+}
+
+
+
+.LM5{
+    position: absolute;
+    width: 83px;
+    height: 15px;
+    left: 29px;
+    top: 16px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-decoration: none;
+
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    z-index: 1000;
+    color: #B99BB6;
+
+}
+.box3{
+    position: absolute;
+    height: 120px;
+    width: 500px;
+    left: 380px;
+    right: 0%;
+    top:  4150px;
+    
+    border-radius: 0px;
+}
+.text12{
+    position: absolute;
+    height: 30px;
+    left: 0px;
+    right:  0%;
+    top: -0.17px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+
+    color: #B99BB6;
+}
+.text13{
+    position: absolute;
+    height: 90px;
+    left: -0.05%;
+    right: 5.61%;
+    top: 30px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+
+
+    color: #5F4D5D;
+
+}
+
+.text14{
+    position: absolute;
+    height: 60px;
+    left: -0.05%;
+    right: 5.2%;
+    top: 130px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    
+
+
+    color: #5F4D5D;
+
+}
+
+.text15{
+    position: absolute;
+    height: 30px;
+    left: -0.05%;
+    right: 4.17%;
+    top: 200px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    
+
+
+    color: #5F4D5D;
+}
+.photo8{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 417px;
+    width: 608px;
+    left: 530px;
+    right: 0%;
+    top: -100px;
+
+    background: url(../images/bed.png);
+    border: 17px solid #D6BBD3;
+    border-radius: 0px;
+}
+
+.center3{
+    position: absolute;
+    height: 825px;
+    left: 0%;
+    right: 0%;
+    top: 4600px;
+    
+    background: #CEB3CB;;
+    border-radius: 0px; 
+    z-index: -2;
+}
+.block4{
+    position: absolute;
+    height: 450px;
+    width: 440px;
+    left: 1000px;
+    right: 0%;
+    top: 174px;
+
+    background: #B08EAD;
+    border-radius: 0px;
+    z-index: -1;
+}
+.text16{
+    position: absolute;
+    height: 30px;
+    left: 63px;
+    right: 0%;
+    top: 124px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    
+    
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+.text17{
+    position: absolute;
+    height: 55px;
+    left: 63px;
+    right: 0%;
+    top: 150px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 55px;
+
+
+    color: #FFFFFF;
+}
+
+.text18{
+    position: absolute;
+    height: 55px;
+    left: 63px;
+    right: 0%;
+    top: 210px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 55px;
+
+
+
+    color: #FFFFFF;
+
+}
+
+.BN{
+    position: absolute;
+    height: 30px;
+    left: 63px;
+    right: 0%;
+    top: 300px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    
+
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    color: #FFFFFF;
+
+}
+.BN:after{
+    content: "";
+    display: block;
+    width: 75px;
+    height: 3px;
+    background-color: #fff;
+
+    position: absolute;
+    z-index: 1;
+}
+.photo9{
+    position: absolute;
+    width: 540px;
+    height: 675px;
+    left: 480px;
+    top: 75px;
+
+    background: url(../images/pillow2.png);
+    border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+.shop{
+    position: absolute;
+    height: 825px;
+    left: 0%;
+    right: 0%;
+    top: 5500px;
+    
+    background: white;
+    border-radius: 0px; 
+    z-index: -2;
+}
+.photo10{
+    position: absolute;
+    height: 377px;
+    width: 377px;
+    left: 113px;
+    right: 0%;
+    top: 0.39px;
+
+    background: url(../images/PS.png);
+    border-radius: 0px;
+}
+
+.name{
+    position: absolute;
+    width: 144px;
+    height: 30px;
+    left: 229px;
+    top:  390px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-align: center;
+
+    color: #5F4D5D;
+}
+.price{
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 257px;
+    top: 430px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+
+    text-align: center;
+
+    color: #B0B0B0;
+}
+.photo11{
+    position: absolute;
+    height: 377px;
+    width: 377px;
+    left: 700px;
+    right: 0%;
+    top: 0.39px;
+
+    background: url(../images/PW.png);
+    border-radius: 0px;
+}
+
+.name2{
+    position: absolute;
+    width: 139px;
+    height: 30px;
+    left: 820px;
+    right: 0%;
+    top: 390;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-align: center;
+
+    color: #5F4D5D;
+
+}
+.price2{
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 840px;
+    top: 430px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    text-align: center;
+
+    color: #B0B0B0;
+
+}
+
+.photo12{
+    position: absolute;
+    height: 377px;
+    width: 377px;
+    left: 1300px;
+    right: 0%;
+    top: 0.39px;
+
+    background: url(../images/PB.png);
+    border-radius: 0px;
+}
+
+.name3{
+    position: absolute;
+    width: 182px;
+    height: 30px;
+    left: 1400px;
+    top: 390px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-align: center;
+
+    color: #5F4D5D;
+
+}
+
+.price3{
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 1450px;
+    top: 430px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+
+    text-align: center;
+
+    color: #B0B0B0;
+}
+
+.photo13{
+    position: absolute;
+    height: 377px;
+    width: 377px;
+    left: 113px;
+    right: 0%;
+    top: 550px;
+
+    background: url(../images/PP.png);
+    border-radius: 0px;
+}
+
+.name4{
+    position: absolute;
+    width: 129px;
+    height: 30px;
+    left: 229px;
+    top: 950px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-align: center;
+    color: #5F4D5D;
+}
+
+.price4{
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 240px;
+    top: 1000px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    text-align: center;
+
+    color: #B0B0B0;
+
+}
+
+.photo14{
+    position: absolute;
+    height: 377px;
+    width: 377px;
+    left: 700px;
+    right: 0%;
+    top: 550px;
+
+    background:url(../images/PBLA.png);
+    border-radius: 0px;
+
+}
+.name5{
+    position: absolute;
+    width: 137px;
+    height: 30px;
+    left: 820px;
+    top: 950px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    
+
+    text-align: center;
+
+    color: #5F4D5D;
+}
+
+.price5{
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 840px;
+    top: 1000px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    text-align: center;
+
+    color: #B0B0B0;
+
+}
+
+.photo15{
+    position: absolute;
+    height: 377px;
+    width: 377px;
+    left: 1300px;
+    right: 0%;
+    top: 550px;
+
+    background: url(../images/PG.png);
+    border-radius: 0px;
+}
+.name6{
+    position: absolute;
+    width: 143px;
+    height: 30px;
+    left: 1435px;
+    top: 950px;
+
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-align: center;
+
+    color: #5F4D5D;
+}
+
+.price6{
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 1450px;
+    top: 1000px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    text-align: center;
+
+    color: #B0B0B0;
+
+
+}
+
